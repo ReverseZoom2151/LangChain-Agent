@@ -1,0 +1,21 @@
+{
+  "name": "llm-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.2.27",
+    "@langchain/core": "^0.2.24",
+    "@langchain/openai": "^0.2.6",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.16"
+  }
+}
